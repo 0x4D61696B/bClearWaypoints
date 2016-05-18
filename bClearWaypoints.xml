@@ -9,7 +9,7 @@
         title="bClearWaypoints"
         author="BurstBiscuit"
         description="Clears waypoints upon using a slash command"
-        url=""
+        url="https://bitbucket.org/0x4D61696B/bclearwaypoints"
         uiVersion="1000"
     />
 
